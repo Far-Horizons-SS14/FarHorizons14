@@ -338,6 +338,16 @@
   - Heels # 🌟Starlight🌟
 
 - type: loadoutGroup
+  id: AssistantID
+  name: loadout-group-assistant-id
+  loadouts:
+    - AssistantPDA
+    - PassengerPDA
+    - OffDutyPDA
+    - UnemployedPDA
+    - RefugeePDA
+
+- type: loadoutGroup
   id: BartenderHead
   name: loadout-group-bartender-head
   minLimit: 0
